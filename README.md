@@ -17,11 +17,11 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-silveira-dev&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
-</div> 
-   
+</div>    
 <br>
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-silveira-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05204a&height=120&section=footer"/>
 </a>
