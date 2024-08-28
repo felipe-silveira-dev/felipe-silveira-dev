@@ -7,11 +7,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05204a&height=120&section=header"/>
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-silveira-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-My journey as a developer began in 2021 at @eduzz, where I still work today. I started as a trainee and, over time, was promoted to Junior Developer 1, and currently, Junior Developer 2. In the early years, I worked with PHP, Laravel, Livewire, Tailwind CSS, and Alpine.js. Nowadays, I’m working with NestJS and React.
+My journey as a developer began in 2022 at @eduzz, where I still work today. I started as a trainee and, over time, was promoted to Junior Developer 1, and currently, Junior Developer 2. In the early years, I worked with PHP, Laravel, Livewire, Tailwind CSS, and Alpine.js. Nowadays, I’m working with NestJS and React.
 
 In 2019, I started a degree in Information Technology Management at FATEC Franco da Rocha, but due to the pandemic, I did not complete it. In 2023, I began studying Computer Engineering at Descomplica Faculdade Digital, where I continue to enhance my technical skills and academic knowledge.
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-silveira-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 [## Projetos
